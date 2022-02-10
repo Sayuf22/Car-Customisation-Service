@@ -1,0 +1,12 @@
+-------------------------Receipt----------------------------------
+DATE: Mon Dec 21 10:47:54 IST 2020
+Sayuf
+9704869949
+ali.sayuf1722@gmail.com
+
+Selected car model:  Maruti-Suzuki: 564321
+Selected Paint: Red: 50788
+Selected Rims: Default_Chrome:0
+Interior: Leather: 22572
+Neon lights: 33859
+Final Price: 671540
